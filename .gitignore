@@ -1,0 +1,42 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore compiled JavaScript files
+*.js
+
+# Ignore TypeScript declaration files
+*.d.ts
+
+# Ignore package lock file
+package-lock.json
+
+# Ignore environment file
+.env
+
+# Ignore IDE or editor specific files
+.vscode/
+.idea/
+
+# Ignore compiled output directory
+dist/
+
+# Ignore any file starting with an "@" symbol
+@*
+
+# Ignore the config folder
+v/config/
+
+# Ignore the models folder
+v/models/
+
+# Ignore the index.ts file
+H index.ts
+
+# Ignore the package-lock.json file
+@ package-lock.json
+
+# Ignore the package.json file
+@ package.json
+
+# Ignore the tsconfig.json file
+tsconfig.json
